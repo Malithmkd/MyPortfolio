@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **ReacJs and Python**
 
-- 👨‍💻 All of my projects are available at [https://malithmkd.github.io/](https://malithmkd.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://malithmkd.github.io/)
 
-- 📄 Know about my experiences [https://malithmkd.github.io/cv/MalithDodangodaCV.pdf](https://malithmkd.github.io/cv/MalithDodangodaCV.pdf)
+- 📄 Know about my experiences [My CV](https://malithmkd.github.io/cv/MalithDodangodaCV.pdf)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
